@@ -43,9 +43,9 @@ http://localhost:3333/projects
 - [Express](https://expressjs.com/pt-br/)
 
 # Assuntos abordados
-- [x](Rotas)
-- [x](Parâmetros)
-- [x](Middlewares)
+- [x] Rotas
+- [x] Parâmetros
+- [x] Middlewares
 
 
 # Autor
